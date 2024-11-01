@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Tarek EL Baz] With over 14 years as an Infrastructure Engineer, I specialize in Datacenter Operations and Systems Engineering at MCIT. My expertise lies in ensuring high availability and stability of virtualized infrastructure across multiple layers. My mission is to maintain seamless 24/7 system uptime, protect applications through robust backup solutions.
+# 👋 Hello, I'm Tarek EL Baz With over 14 years as an Infrastructure Engineer, I specialize in Datacenter Operations and Systems Engineering at MCIT. My expertise lies in ensuring high availability and stability of virtualized infrastructure and protect applications through robust backup solutions.
 
 # In line with my professional development, I’ve deepened my expertise in DevOps practices, focusing on operational efficiency and accelerating delivery through automation and CI/CD pipelines. I’m proficient with a range of tools including Git, Docker, Kubernetes, Ansible, Jenkins, Terraform, Prometheus, Grafana and Cloud Computing.
 

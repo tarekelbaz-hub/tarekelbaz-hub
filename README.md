@@ -1,8 +1,6 @@
-# 👋 Hello, I'm Tarek EL Baz With over 14 years as an Infrastructure Engineer, I specialize in Datacenter Operations and Systems Engineering at MCIT. My expertise lies in ensuring high availability and stability of virtualized infrastructure and protect applications through robust backup solutions.
+👋 Hello, I'm Tarek EL Baz With over 14 years as an Infrastructure Engineer, I specialize in Datacenter Operations and Systems Engineering at MCIT. My expertise lies in ensuring the high availability and stability of virtualized infrastructure and protecting applications through robust backup solutions.
 
-# In line with my professional development, I’ve deepened my expertise in DevOps practices, focusing on operational efficiency and accelerating delivery through automation and CI/CD pipelines. I’m proficient with a range of tools including Git, Docker, Kubernetes, Ansible, Jenkins, Terraform, Prometheus, Grafana and Cloud Computing.
-
-# Feel free to explore my GitHub, and please reach out if you’re interested in discussing infrastructure solutions or exploring potential collaboration opportunities!
+In line with my professional development, I’ve deepened my expertise in DevOps practices, focusing on operational efficiency and accelerating delivery through automation and CI/CD pipelines. I’m proficient with various tools including Git, Docker, Kubernetes, Ansible, Jenkins, Terraform, Prometheus, Grafana and Cloud Computing.
 
 ## About Me
 - 🔭 I’m currently working on ... [ DevOps, DevSecOps]
@@ -11,6 +9,7 @@
 - 💬 Ask me about ... [Linux, Bash, VMware, Storage, Backup, Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS, Azure]
 - 📫 How to reach me: [Email: tarekelbaz@gmail.com, LinkedIn: https://www.linkedin.com/in/tarek-el-baz/]
 - ⚡ Fun fact: ... [ Don't Wish For It. Work For It ]
+Feel free to explore my GitHub, and please reach out if you’re interested in discussing infrastructure solutions or exploring potential collaboration opportunities!
 
 ## Skills & Technologies
 <!-- Icons or a list of languages/tools you know -->
